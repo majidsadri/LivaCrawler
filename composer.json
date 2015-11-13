@@ -1,0 +1,21 @@
+{
+    "name": "dadopl/livacrawler",
+    "description": "Web Crawler for The Laravel Framework.",
+    "keywords": ["webcrawler", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Golabek",
+            "email": "golabek.daniel@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Collective\\Annotations\\": "src/"
+        }
+    }
+}
