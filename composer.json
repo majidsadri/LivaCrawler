@@ -15,7 +15,7 @@
     "require-dev": {},
     "autoload": {
         "psr-4": {
-            "Collective\\Annotations\\": "src/"
+            "Collective\\Livacrawler\\": "src/"
         }
     }
 }
