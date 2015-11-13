@@ -1,1 +1,1 @@
-<?php namespace Collective\Annotations;
+<?php namespace Dadopl\Livacrawler;
