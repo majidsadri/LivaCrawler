@@ -15,7 +15,7 @@
     "require-dev": {},
     "autoload": {
         "psr-4": {
-            "Collective\\Livacrawler\\": "src/"
+            "Dadopl\\Livacrawler\\": "src/"
         }
     }
 }
